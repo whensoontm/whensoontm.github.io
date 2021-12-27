@@ -1,6 +1,6 @@
 # WHEN SOON™?!
 
-| Implant | SOON™-Meter |
+| Implant | SOON™-O-Meter |
 | ------- | ---------- |
 | [Apex Flex](/info#apex-flex) | ▰▰▰▱▱ |
 | [Apex Mega](/info#apex-mega) | ▰▰▰▰▱ |
@@ -11,4 +11,4 @@
 
 ---
 
-This page is the perfect answer when someone asks when an implant is released.
+This page is the answer, when someone asks when an implant is released.
