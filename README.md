@@ -8,3 +8,7 @@
 | [NExT v2](/info#next-v2) | ▰▱▱▱▱ |
 | [xMagic](/info#xmagic) | ▰▱▱▱▱ |
 | [CoM Conversions](/info#com-conversions) | ??? |
+
+---
+
+This page is the perfect answer when someone asks when an implant is released.
