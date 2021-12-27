@@ -47,4 +47,6 @@ A new type of payment chip conversion. "Coil on Module" payment cards could be c
 ---
 This site does not include paywalled info from the [DT Club](https://forum.dangerousthings.com/s).
 
+SOON™-O-Meter data is a guess by Amal or someone else of the DT team. This isn't an official DT website.
+
 [Home](/)
