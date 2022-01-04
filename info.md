@@ -17,8 +17,9 @@ The [VivoKey Apex](#apex-flex) as jumbo implant. There will be a rainbow version
 **Resources**  
 [YT Video: Apex Mega with RGB LED](https://www.youtube.com/watch?v=7fXVBj6Pt9E)
 
-### Apex Max
-The [VivoKey Apex](#apex-flex) as typical small x-series glass implant.
+### Apex Mini
+The [VivoKey Apex](#apex-flex) as typical small x-series glass implant.  
+Also known as xApex, Apex Max and Apex Glass.
 
 **Resources**  
 [DT Forum: VivoKey Apex update](https://forum.dangerousthings.com/t/vivokey-apex-update/8850)  
