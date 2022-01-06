@@ -1,5 +1,3 @@
-# WHEN SOON™?!
-
 | Implant | SOON™-O-Meter |
 | ------- | ---------- |
 | [Apex Flex](/info#apex-flex) | ▰▰▰▱▱ |
