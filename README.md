@@ -6,7 +6,7 @@
 | [flexNT v2](/info#flexnt-v2) | ▰▰▱▱▱ |
 | [NExT v2](/info#next-v2) | ▰▱▱▱▱ |
 | [xMagic](/info#xmagic) | ▰▱▱▱▱ |
-| [CoM Conversions](/info#com-conversions) | ??? |
+| [CoMmuter Payment Implant](/info#commuter) | ??? |
 
 ---
 
