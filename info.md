@@ -44,7 +44,7 @@ Amal only mentioned the name xMagic once. It's probably a xEM & xM1 combo.
 **Resources**  
 [DT Forum: Amal mentions xMagic](https://forum.dangerousthings.com/t/the-anti-derailment-thread-hijacking-thread/5860/8225)
 
-### CoM Conversions
+### CoMmuter
 A new type of payment chip conversion. "Coil on Module" payment cards could be converted to implants.  
 This may allow more and more users to get a payment implant.  
 ![image](https://user-images.githubusercontent.com/95120860/143735327-ce3055c0-9ca9-498d-b98d-660cdde2e2eb.png)
