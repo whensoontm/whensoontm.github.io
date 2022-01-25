@@ -52,6 +52,15 @@ This may allow more and more users to get a payment implant.
 **Resources**  
 [YT Video: CoM Chip Conversion First Payment](https://www.youtube.com/watch?v=Xr4uPm84-8k)
 
+### flexClass
+HID iClass conversions by leumas95.  
+There was a batch already, we are waiting for a newer batch with 16Kb space.
+![image](https://user-images.githubusercontent.com/96721031/150921995-22b2b057-4001-4c83-96fe-68be8865e3f9.png)
+
+**Resources**  
+[DT Forum: flexClass announcement](https://forum.dangerousthings.com/t/flexclass-hid-iclass-standard-implant-in-limited-release/12256)
+[Product Page](https://dangerousthings.com/product/flexClass/)
+
 ---
 This site does not include paywalled info from the [DT Club](https://forum.dangerousthings.com/s).
 
