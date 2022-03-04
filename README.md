@@ -1,4 +1,4 @@
-Important message: https://forum.dangerousthings.com/t/vivokey-going-underground-for-a-bit/14410
+Important message: [VivoKey going underground for a bit](https://forum.dangerousthings.com/t/vivokey-going-underground-for-a-bit/14410)
 
 | Implant | SOON™-O-Meter |
 | ------- | ---------- |
