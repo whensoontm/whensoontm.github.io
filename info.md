@@ -60,7 +60,8 @@ There was a batch already, we are waiting for a newer batch with 16Kb space.
 **Resources**  
 [DT Forum: flexClass announcement](https://forum.dangerousthings.com/t/flexclass-hid-iclass-standard-implant-in-limited-release/12256)  
 [Product Page](https://dangerousthings.com/product/flexClass/)  
-[Update: Amal announces new batch](https://forum.dangerousthings.com/t/is-the-global-economy-trending-down/14691/30)
+[Update: Amal announces new batch](https://forum.dangerousthings.com/t/is-the-global-economy-trending-down/14691/30)  
+[Update: limited run of 8 implants](https://twitter.com/DangerousThings/status/1511585564608196613)
 
 ---
 This site does not include paywalled info from the [DT Club](https://forum.dangerousthings.com/s).
