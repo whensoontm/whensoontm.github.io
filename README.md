@@ -9,7 +9,7 @@ Important message: [VivoKey going underground for a bit](https://forum.dangerous
 | [NExT v2](/info#next-v2) | ▰▱▱▱▱ |
 | [xMagic](/info#xmagic) | ▰▱▱▱▱ |
 | [CoMmuter Payment Implant](/info#commuter) | ??? |
-| [flexClass](/info#flexclass) | ??? |
+| [flexClass](/info#flexclass) | ▰▰▰▰▰ |
 
 ---
 
