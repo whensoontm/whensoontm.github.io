@@ -54,7 +54,7 @@ This may allow more and more users to get a payment implant.
 
 ### flexClass
 HID iClass implants by leumas95.  
-There was a batch already, we are waiting for a newer batch with 16Kb space.  
+There was a batch and recently a new one dropped, but we're waiting for 16Kb versions to be available regulary.
 ![image](https://user-images.githubusercontent.com/96721031/150921995-22b2b057-4001-4c83-96fe-68be8865e3f9.png)
 
 **Resources**  
