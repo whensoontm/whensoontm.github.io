@@ -1,5 +1,3 @@
-Important message: [VivoKey going underground for a bit](https://forum.dangerousthings.com/t/vivokey-going-underground-for-a-bit/14410)
-
 | Implant | SOON™-O-Meter |
 | ------- | ---------- |
 | [Apex Flex](/info#apex-flex) | ▰▰▰▰▱ |
