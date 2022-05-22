@@ -1,3 +1,6 @@
+![when soon](https://user-images.githubusercontent.com/96721031/169717356-e37a9da0-b6a5-4f91-9035-3e32843a48bf.png)
+
+
 | Implant | SOON™-O-Meter |
 | ------- | ---------- |
 | [Apex Flex](/info#apex-flex) | ▰▰▰▰▱ |
