@@ -8,6 +8,7 @@ With applets like PGP, OTP and WebAuthN, the Apex line will be a game changer.
 
 **Resources**  
 [DT Forum: VivoKey Apex update](https://forum.dangerousthings.com/t/vivokey-apex-update/8850)  
+[DT Forum: Apex June Update](https://forum.dangerousthings.com/t/june-2022-vivokey-apex-flex-update/15605)
 
 ### Apex Mega
 The [VivoKey Apex](#apex-flex) as jumbo implant. There will be a rainbow version and one without LED.
