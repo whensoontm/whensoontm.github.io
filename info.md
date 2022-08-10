@@ -1,7 +1,7 @@
 ## implant info
 
 ### Apex Flex
-The [VivoKey Apex](https://vivokey.com/apex), the implantable smart card.  
+The [VivoKey Apex](https://dngr.us/apex), the implantable smart card.  
 With applets like PGP, OTP and WebAuthN, the Apex line will be a game changer.
 
 ![image](https://user-images.githubusercontent.com/95120860/143735594-94894cb2-52c4-4a3e-8832-6c758d918fd6.png)
@@ -9,6 +9,7 @@ With applets like PGP, OTP and WebAuthN, the Apex line will be a game changer.
 **Resources**  
 [DT Forum: VivoKey Apex update](https://forum.dangerousthings.com/t/vivokey-apex-update/8850)  
 [DT Forum: Apex June Update](https://forum.dangerousthings.com/t/june-2022-vivokey-apex-flex-update/15605)
+[DT Forum: it's not released, or is it?](https://forum.dangerousthings.com/t/june-2022-vivokey-apex-flex-update/15605/125)
 
 ### Apex Mega
 The [VivoKey Apex](#apex-flex) as jumbo implant. There will be a rainbow version and one without LED.
