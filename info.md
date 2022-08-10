@@ -8,7 +8,7 @@ With applets like PGP, OTP and WebAuthN, the Apex line will be a game changer.
 
 **Resources**  
 [DT Forum: VivoKey Apex update](https://forum.dangerousthings.com/t/vivokey-apex-update/8850)  
-[DT Forum: Apex June Update](https://forum.dangerousthings.com/t/june-2022-vivokey-apex-flex-update/15605)
+[DT Forum: Apex June Update](https://forum.dangerousthings.com/t/june-2022-vivokey-apex-flex-update/15605)  
 [DT Forum: it's not released, or is it?](https://forum.dangerousthings.com/t/june-2022-vivokey-apex-flex-update/15605/125)
 
 ### Apex Mega
