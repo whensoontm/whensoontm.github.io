@@ -1,6 +1,6 @@
 | Implant | SOON™-O-Meter |
 | ------- | ---------- |
-| [Apex Flex](/info#apex-flex) | ▰▰▰▰▰ |
+| [Apex Flex 👀](/info#apex-flex) | ▰▰▰▰▰ |
 | [Apex Mega](/info#apex-mega) | ▰▰▰▰▱ |
 | [Apex Mini](/info#apex-mini) | ??? |
 | [flexNT v2](/info#flexnt-v2) | ▰▰▱▱▱ |
